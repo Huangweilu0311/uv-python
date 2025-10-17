@@ -14,8 +14,8 @@ uv python install
 uv pip 套件安裝到.venv中名稱不會修改專案的 pyproject.toml 檔案。
 uv add 會 將套件名稱及其版本範圍（如果指定）寫入專案的 pyproject.toml 檔案中。
 # 步驟5
-分享檔案
+分享檔案先執行
 uv sync(舊程式)
 <img width="240" height="228" alt="{164F3964-96E8-4ECA-889F-59FE1E8D1F95}" src="https://github.com/user-attachments/assets/b69b4fe4-10d7-4386-8c7d-a84a468d6403" />
 將這些檔案打包<img width="191" height="112" alt="{B146DEA4-33EA-46CC-893F-A7E87922AB49}" src="https://github.com/user-attachments/assets/a5ff9ceb-d3f9-4f3d-b72f-2aba8b71dcd8" />
-分享環境如果沒有安裝uv要先執行步驟0~1跟uv sync
+分享環境如果沒有安裝uv要先執行步驟0~1執行uv sync
