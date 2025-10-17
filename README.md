@@ -7,5 +7,7 @@ uv python install
 # 步驟3
 創建新檔案並寫程式後
 <img width="1920" height="1019" alt="{848042AB-EDD7-4C30-A9FC-4B00B7774093}" src="https://github.com/user-attachments/assets/ee7d414a-f6a8-4f92-b8ce-f70eebda8409" />
-點擊右下Select Interpreter
-終端機執行 uv init
+點擊右下Select Interpreter 選擇使用版本
+# 步驟4
+安裝函數庫
+uv pip 套件名稱
