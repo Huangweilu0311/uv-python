@@ -1,5 +1,4 @@
 # 步驟0
-<img width="666" height="131" alt="{0050A503-C7AA-4283-816F-DD39C5329BED}" src="https://github.com/user-attachments/assets/bb84f961-79f3-4d63-a555-81d11e8e83a2" /># uv-python
 安裝到終端機
 https://docs.astral.sh/uv/getting-started/installation/
 # 步驟1
